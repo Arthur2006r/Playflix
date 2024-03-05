@@ -12,4 +12,4 @@ Este repositório contém uma aplicação Java que implementa um sistema de repo
 
 - **Java:** Linguagem de programação principal para o desenvolvimento da aplicação.
 - **JavaSwing:** Biblioteca gráfica utilizada para criar a interface de usuário.
-- **Banco de Dados (MySQL):** Utilização de um banco de dados para armazenamento persistente dos dados dos jogos.
+- **Banco de Dados (MySQL):** Utilização de um banco de dados para armazenamento persistente dos dados.
