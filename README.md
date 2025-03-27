@@ -6,9 +6,10 @@ Este repositório contém uma aplicação Java que implementa um sistema de repo
 
 - **Armazenamento de Dados em um BD:** Permite o armazenamento e gerenciamento de informações detalhadas sobre vários jogos, fóruns, jogadores e também o gerenciamento de comentários no chat dos fóruns.
 - **Interface Gráfica Intuitiva:** Utiliza JavaSwing para criar uma interface gráfica intuitiva e de fácil utilização, possibilitando a interação do usuário com o sistema de forma eficiente.
+- **Arquitetura de Sistema:** Sistema desenvolvido na arquitetura MVC.
 
-## Tecnologias Utilizadas:
+## Tecnologias Utlizadas:
 
 - **Java:** Linguagem de programação principal para o desenvolvimento da aplicação.
 - **JavaSwing:** Biblioteca gráfica utilizada para criar a interface de usuário.
-- **Banco de Dados (MySQL):** Utilização de um banco de dados para armazenamento persistente dos dados dos jogos.
+- **Banco de Dados (MySQL):** Utilização de um banco de dados para armazenamento persistente dos dados.
