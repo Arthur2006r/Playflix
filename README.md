@@ -13,3 +13,8 @@ Este repositório contém uma aplicação Java que implementa um sistema de repo
 - **Java:** Linguagem de programação principal para o desenvolvimento da aplicação.
 - **JavaSwing:** Biblioteca gráfica utilizada para criar a interface de usuário.
 - **Banco de Dados (MySQL):** Utilização de um banco de dados para armazenamento persistente dos dados.
+
+## Imagem da Página Inicial do Sistema:
+
+![image](https://github.com/user-attachments/assets/d803b1b0-ac73-4c6d-8740-6e0c0e907118)
+
