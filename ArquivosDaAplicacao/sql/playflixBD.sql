@@ -1,8 +1,8 @@
-DROP DATABASE IF EXISTS playflixpoo;
+DROP DATABASE IF EXISTS Playfix;
 
-CREATE DATABASE playflixpoo;
+CREATE DATABASE Playfix;
 
-USE playflixpoo;
+USE Playfix;
 
 -- Tabela de Usuários  
 CREATE TABLE Usuario (
